@@ -12,7 +12,7 @@
 * [Blitzscaling 10: Selina Tobaccowala on Building a Global Business at SurveyMonkey](10.md)
 * [Blitzscaling 11: Patrick Collison on Hiring at Stripe and the Role of a Product-Focused CEO](11.md)
 * [Blitzscaling 12: Nirav Tolia on Growing Nextdoor and the Path to Monetization](12.md)
-* [Blitzscaling 13: Shishir Mehrotra on Scaling YouTube and The 10 Things That Matter](13.md)
+* [- Blitzscaling 13: Shishir Mehrotra on Scaling YouTube and The 10 Things That Matter](13.md)
 * [- Blitzscaling 14: Elizabeth Holmes on Managing Product Strategy, Regulation, and the Media](14.md)
 * [- Blitzscaling 15: Diane Greene on Scaling Products and Culture At VMware](15.md)
 * [- Blitzscaling 16: Reed Hastings on Building a Streaming Empire](16.md)
