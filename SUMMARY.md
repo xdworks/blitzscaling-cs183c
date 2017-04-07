@@ -10,7 +10,7 @@
 * [Blitzscaling 08: Eric Schmidt on Structuring Teams and Scaling Google](08.md)
 * [- Blitzscaling 09: Reid Hoffman and Allen Blue on Why and How They Scaled LinkedIn](09.md)
 * [- Blitzscaling 10: Selina Tobaccowala on Building a Global Business at SurveyMonkey](10.md)
-* [Blitzscaling 11: Patrick Collison on Hiring at Stripe and the Role of a Product-Focused CEO](11.md)
+* [- Blitzscaling 11: Patrick Collison on Hiring at Stripe and the Role of a Product-Focused CEO](11.md)
 * [Blitzscaling 12: Nirav Tolia on Growing Nextdoor and the Path to Monetization](12.md)
 * [- Blitzscaling 13: Shishir Mehrotra on Scaling YouTube and The 10 Things That Matter](13.md)
 * [- Blitzscaling 14: Elizabeth Holmes on Managing Product Strategy, Regulation, and the Media](14.md)
