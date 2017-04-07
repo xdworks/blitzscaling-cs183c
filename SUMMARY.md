@@ -1,6 +1,6 @@
 # Summary
 
-* [Blitzscaling 01: Overview of the Five Stages of Blitzscaling](01.md)
+* [- Blitzscaling 01: Overview of the Five Stages of Blitzscaling](01.md)
 * [Blitzscaling 02: Sam Altman on Y Combinator and What Makes The Best Founders](02.md)
 * [Blitzscaling 03: Michael Dearing on Capitalism, Creativity, and Creative Destruction](03.md)
 * [Blitzscaling 04: Ann Miura-Ko on FLOODGATE's Thunder Lizard Theory and Achieving Product Market Fit](04.md)
