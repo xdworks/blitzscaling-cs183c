@@ -17,6 +17,6 @@
 * [- Blitzscaling 15: Diane Greene on Scaling Products and Culture At VMware](15.md)
 * [Blitzscaling 16: Reed Hastings on Building a Streaming Empire](16.md)
 * [Blitzscaling 17: Marissa Mayer on Scaling Google and Yahoo](17.md)
-* [Blitzscaling 18: Brian Chesky on Launching Airbnb and the Challenges of Scale](18.md)
+* [- Blitzscaling 18: Brian Chesky on Launching Airbnb and the Challenges of Scale](18.md)
 * [- Blitzscaling 19: Jeff Weiner on Establishing a Plan and Culture for Scaling](19.md)
 * [- Blitzscaling 20: Final Recap and Student Discussion](20.md)
