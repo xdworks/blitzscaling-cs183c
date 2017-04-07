@@ -15,7 +15,7 @@
 * [Blitzscaling 13: Shishir Mehrotra on Scaling YouTube and The 10 Things That Matter](13.md)
 * [Blitzscaling 14: Elizabeth Holmes on Managing Product Strategy, Regulation, and the Media](14.md)
 * [- Blitzscaling 15: Diane Greene on Scaling Products and Culture At VMware](15.md)
-* [Blitzscaling 16: Reed Hastings on Building a Streaming Empire](16.md)
+* [- Blitzscaling 16: Reed Hastings on Building a Streaming Empire](16.md)
 * [- Blitzscaling 17: Marissa Mayer on Scaling Google and Yahoo](17.md)
 * [- Blitzscaling 18: Brian Chesky on Launching Airbnb and the Challenges of Scale](18.md)
 * [- Blitzscaling 19: Jeff Weiner on Establishing a Plan and Culture for Scaling](19.md)
