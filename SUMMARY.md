@@ -6,7 +6,7 @@
 * [- Blitzscaling 04: Ann Miura-Ko on FLOODGATE's Thunder Lizard Theory and Achieving Product Market Fit](04.md)
 * [- Blitzscaling 05: John Lilly on Leveraging Community to Scale Mozilla](05.md)
 * [Blitzscaling 06: Jennifer Pahlka on Founding Code For America and Starting the US Digital Service](06.md)
-* [Blitzscaling 07: Mariam Naficy on Lessons From The Dot Com Days and Knowing When To Blitzscale](07.md)
+* [- Blitzscaling 07: Mariam Naficy on Lessons From The Dot Com Days and Knowing When To Blitzscale](07.md)
 * [Blitzscaling 08: Eric Schmidt on Structuring Teams and Scaling Google](08.md)
 * [- Blitzscaling 09: Reid Hoffman and Allen Blue on Why and How They Scaled LinkedIn](09.md)
 * [Blitzscaling 10: Selina Tobaccowala on Building a Global Business at SurveyMonkey](10.md)
